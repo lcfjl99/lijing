@@ -47,7 +47,7 @@ class TieziController extends Controller
      */
     public function show($id)
     {
-        return '帖子的详情 id为'.$id;
+        return '帖子的详情1 id为'.$id;
     }
 
     /**
